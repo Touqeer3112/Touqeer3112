@@ -6,7 +6,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=500&height=50&lines=Frontend+Developer;UI%2FUX+Designer;Let's+Build+Beautiful+Web+Apps+🚀" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=60&lines=Frontend+Developer;UI%2FUX+Designer;Let's+Build+Beautiful+Web+Apps+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,7 +27,7 @@
 | UI/UX Design (Figma)      | ███████░░░░░ 60%    |
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,mongodb,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,mongodb,figma,git,github,vscode" />
 </p>
 
 ---

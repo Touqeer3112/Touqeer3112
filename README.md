@@ -1,9 +1,9 @@
 <h1 align="center">Hi There! 👋 I'm Muhammad Touqeer</h1>
 
 <h3 align="center">
-  <b>Frontend Developer | UI/UX Designer</b>
-  
+  <b>Frontend Developer</b> <span style="color:#F97316;">|</span> <b>UI/UX Designer</b>
 </h3>
+
 
 <p align="center">
 

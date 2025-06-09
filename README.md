@@ -1,25 +1,26 @@
 <h1 align="center">Hi There! 👋 I'm Muhammad Touqeer</h1>
-<p align="center">Front-End Developer | UI/UX  Designer</p>
+<p align="center">💻 Frontend Developer | UI/UX Designer </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Passionate+Front-End+Developer;Learning+MERN+Stack;Let's+Build+Together!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;UI%2FUX+Designer+In+Progress;Let's+Build+Beautiful+Web+Apps+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-### ⚙️ Skills & Tools
+### ⚙️ My Skills
 
 | Technology                 | Proficiency         |
 |---------------------------|---------------------|
-| HTML5                     | ██████████░░ 95%    |
+| Semantic HTML5            | ██████████░░ 95%    |
 | CSS3, Tailwind, Bootstrap | ██████████░░ 95%    |
 | JavaScript (ES6+)         | █████████░░░ 85%    |
-| React.js                  | ████████░░░░ 70%    |
-| Node.js & Express         | ███████░░░░░ 65%    |
-| MongoDB (Mongoose)        | ███████░░░░░ 75%    |
+| React.js (Hooks, Router)  | ████████░░░░ 75%    |
+| Node.js + Express         | ███████░░░░░ 65%    |
+| MongoDB (Mongoose)        | ███████░░░░░ 65%    |
+
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,express,mongodb,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,express,mongodb,firebase,figma,git,github,vscode" />
 </p>
 
 ---
@@ -29,22 +30,31 @@
 - 📘 Next.js (App Router, Tailwind Integration)
 - ⚡ TypeScript for scalable React apps
 - 🎯 Animations with Framer Motion
-
 ---
 
-### 📫 Contact Me
+### 📫 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/Muhammad Touqeer" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-touqeer-b63aa1321/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="31tm.ouqeer@gmail.com" target="_blank">
+  <a href="mailto:31tm.ouqeergmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.fiverr.com/@mt_developerss" target="_blank">
+  <a href="https://www.fiverr.com/mt_developerss?public_mode=true" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-28C76F?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
 </p>
+
+---
+
+### ✨ Let's Collaborate
+
+I'm always open to:
+- 🤝 Collaborations on exciting web projects
+- 🧠 Learning from other developers
+- 🧩 Freelance frontend projects
+- 💡 Bringing creative ideas to life with code + design
 
 ---
 

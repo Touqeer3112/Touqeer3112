@@ -35,7 +35,7 @@
 ### 📫 Contact Me
 
 <p>
-  <a href="https://www.linkedin.com/in/muhammadtouqeer" target="_blank">
+  <a href="https://www.linkedin.com/in/Muhammad Touqeer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="31tm.ouqeer@gmail.com" target="_blank">

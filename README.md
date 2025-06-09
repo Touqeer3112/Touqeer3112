@@ -1,8 +1,8 @@
 <h1 align="center">Hi There! 👋 I'm Muhammad Touqeer</h1>
 
 <h3 align="center">
-  <b>Frontend Developer</b><br/>
-  <b>UI/UX Designer</b>
+  <b>Frontend Developer | UI/UX Designer</b>
+  
 </h3>
 
 <p align="center">
@@ -15,13 +15,13 @@
 
 | Technology                 | Proficiency         |
 |---------------------------|---------------------|
-| Semantic HTML5            | ██████████░░ 95%    |
-| CSS3                      | ██████████░░ 95%    |
+| HTML5                     | ██████████░░ 95%    |
+| CSS                       | ██████████░░ 95%    |
 | Tailwind CSS              | ████████░░░░ 75%    |
 | Bootstrap                 | ██████████░░ 90%    |
-| JavaScript (ES6+)         | █████████░░░ 85%    |
+| JavaScript                | █████████░░░ 85%    |
 | React.js (Hooks, Router)  | ████████░░░░ 72%    |
-| Node.js + Express         | ███████░░░░░ 65%    |
+| Node.js                   | ███████░░░░░ 65%    |
 | MongoDB (Mongoose)        | ███████░░░░░ 65%    |
 | UI/UX Design (Figma)      | ███████░░░░░ 60%    |
 

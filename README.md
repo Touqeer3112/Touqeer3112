@@ -1,7 +1,7 @@
 <h1 align="center">Hi There! 👋 I'm Muhammad Touqeer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF6F61&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+UI%2FUX+Designer+%7C+React+Learner" alt="Typing SVG Line 1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF6F61&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+UI%2FUX+Designer+%7C alt="Typing SVG Line 1" />
 </p>
 
 

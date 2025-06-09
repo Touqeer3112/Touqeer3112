@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! 👋 I'm Muhammad Touqeer</h1>
-<p align="center">💻 Frontend Developer | UI/UX Designer </p>
+<p align="center"> Frontend Developer | UI/UX Designer </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;UI%2FUX+Designer+In+Progress;Let's+Build+Beautiful+Web+Apps+🚀" alt="Typing SVG" />
@@ -48,13 +48,10 @@
 
 ---
 
-### ✨ Let's Collaborate
+✨ Let's Build Something Great
+I’m always open to collaborations, freelance projects, and learning from fellow developers.
+Let’s connect, code, and create something impactful 💡
 
-I'm always open to:
-- 🤝 Collaborations on exciting web projects
-- 🧠 Learning from other developers
-- 🧩 Freelance frontend projects
-- 💡 Bringing creative ideas to life with code + design
 
 ---
 

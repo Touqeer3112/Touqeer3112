@@ -1,8 +1,8 @@
 <h1 align="center">Hi There! 👋 I'm Muhammad Touqeer</h1>
-<p align="center"> Frontend Developer | UI/UX Designer </p>
+<p align="center"><b>Frontend Developer | UI/UX Designer</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;UI%2FUX+Designer+In+Progress;Let's+Build+Beautiful+Web+Apps+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;UI%2FUX+Designer;Let's+Build+Beautiful+Web+Apps+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,15 +12,18 @@
 | Technology                 | Proficiency         |
 |---------------------------|---------------------|
 | Semantic HTML5            | ██████████░░ 95%    |
-| CSS3, Tailwind, Bootstrap | ██████████░░ 95%    |
+| CSS3                      | ██████████░░ 95%    |
+| Tailwind CSS              | ██████████░░ 75%    |
+| Bootstrap                 | ██████████░░ 90%    |
 | JavaScript (ES6+)         | █████████░░░ 85%    |
-| React.js (Hooks, Router)  | ████████░░░░ 75%    |
+| React.js (Hooks, Router)  | ████████░░░░ 72%    |
 | Node.js + Express         | ███████░░░░░ 65%    |
 | MongoDB (Mongoose)        | ███████░░░░░ 65%    |
+| UI/UX Design (Figma)      | ███████░░░░░ 60%    |
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,express,mongodb,firebase,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,mongodb,firebase,figma,git,github,vscode" />
 </p>
 
 ---
@@ -29,7 +32,7 @@
 
 - 📘 Next.js (App Router, Tailwind Integration)
 - ⚡ TypeScript for scalable React apps
-- 🎯 Animations with Framer Motion
+
 ---
 
 ### 📫 Connect with Me
@@ -48,10 +51,23 @@
 
 ---
 
-✨ Let's Build Something Great
-I’m always open to collaborations, freelance projects, and learning from fellow developers.
-Let’s connect, code, and create something impactful 💡
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Touqeer3112&show_icons=true&theme=radical" alt="Touqeer's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Touqeer3112&layout=compact&theme=radical" alt="Touqeer's Top Languages" />
+</p>
+
+---
+
+### ✨ Let's Build Something Great
+
+I’m always open to freelance projects, creative teamwork, and growing with fellow developers.  
+If you have an idea, a vision, or just want to build something meaningful — let’s connect and turn it into reality. 💡  
+Together, we can create user-friendly, beautifully designed web experiences that truly make an impact.
 
 ---
 

@@ -16,7 +16,7 @@
 | Bootstrap                 | ██████████░░ 90%    |
 | JavaScript                | █████████░░░ 85%    |
 | React.js (Hooks, Router)  | ████████░░░░ 52%    |
-| Node.js                   | ███████░░░░░ 52%    |
+| Node.js                   | ███████░░░░░ 51%    |
 | MongoDB (Mongoose)        | ███████░░░░░ 65%    |
 | UI/UX Design (Figma)      | ███████░░░░░ 60%    |
 

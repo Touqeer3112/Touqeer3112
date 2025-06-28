@@ -15,8 +15,8 @@
 | Tailwind CSS              | ████████░░░░ 75%    |
 | Bootstrap                 | ██████████░░ 90%    |
 | JavaScript                | █████████░░░ 85%    |
-| React.js (Hooks, Router)  | ████████░░░░ 72%    |
-| Node.js                   | ███████░░░░░ 65%    |
+| React.js (Hooks, Router)  | ████████░░░░ 52%    |
+| Node.js                   | ███████░░░░░ 52%    |
 | MongoDB (Mongoose)        | ███████░░░░░ 65%    |
 | UI/UX Design (Figma)      | ███████░░░░░ 60%    |
 
